@@ -1,4 +1,2 @@
 # guess-int
-Small Guessing Integer CLI Game in C++ I made while Learning it
-
-(I know the Header file is not needed at all but I use it to learn it better)
+Small Guessing Integer CLI Game in C++20/23 I made while Learning it
